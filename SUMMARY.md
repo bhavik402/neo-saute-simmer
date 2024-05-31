@@ -4,4 +4,4 @@
 
 ---
 # Recipes
- - [Overnight Oats](overnight-oats.md)
+ - [Overnight Oats](recipes/overnight-oats.md)

@@ -1,0 +1,16 @@
+{
+  "accentColor": "#d3a21d",
+  "cssTheme": "Minimal",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "theme": "obsidian",
+  "translucency": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Roboto Mono",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
+}

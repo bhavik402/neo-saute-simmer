@@ -1,0 +1,34 @@
+.theme-light {
+
+    .markdown-preview-view inline-code,
+    .cm-inline-code {
+        color: #c00000 !important;
+        font-weight: 900 !important;
+    }
+}
+
+.markdown-preview-view inline-code,
+.cm-inline-code {
+    color: #e88f00 !important;
+    font-weight: 900 !important;
+}
+
+/* 
+.markdown-preview-view inline-code,
+.theme-light.cm-inline-code {
+    color: #c00000 !important;
+    font-weight: 900 !important;
+    background: #d8d8d8 !important;
+}
+
+.theme-light.codeblock {
+    color: #c00000 !important;
+    font-weight: 900 !important;
+    background: #282828 !important;
+}
+
+.theme-dark.cm-inline-code {
+    color: #c00000 !important;
+    font-weight: 900 !important;
+    background: #d8d8d8 !important;
+} */

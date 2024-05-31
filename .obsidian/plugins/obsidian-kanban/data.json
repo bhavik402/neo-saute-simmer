@@ -1,0 +1,65 @@
+{
+  "show-checkboxes": false,
+  "hide-tags-in-title": true,
+  "hide-tags-display": false,
+  "tag-colors": [
+    {
+      "tagKey": "#spring-framework",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 106, 90, 1)"
+    },
+    {
+      "tagKey": "#java",
+      "color": "rgba(0, 92, 94, 1)",
+      "backgroundColor": "rgba(251, 151, 0, 1)"
+    },
+    {
+      "tagKey": "#go",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(0, 103, 171, 1)"
+    },
+    {
+      "tagKey": "#sql",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(21, 176, 113, 1)"
+    },
+    {
+      "tagKey": "#aws",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 134, 0, 1)"
+    },
+    {
+      "tagKey": "#docker",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(42, 173, 0, 0.45)"
+    },
+    {
+      "tagKey": "#kubernetes",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(75, 245, 129, 0.5)"
+    },
+    {
+      "tagKey": "#database",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(163, 30, 212, 1)"
+    },
+    {
+      "tagKey": "#tech-interview-prep",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(0, 255, 140, 0.1)"
+    },
+    {
+      "tagKey": "#project",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 0, 136, 1)"
+    },
+    {
+      "tagKey": "#postgres",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(177, 0, 255, 1)"
+    }
+  ],
+  "show-relative-date": true,
+  "archive-with-date": true,
+  "date-picker-week-start": 0
+}

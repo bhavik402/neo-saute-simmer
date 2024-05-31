@@ -1,0 +1,7 @@
+################### Obsidian ###################
+app.json
+workspace.json
+workspaces.json
+
+################### mdbook ###################
+book

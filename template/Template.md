@@ -4,13 +4,13 @@
 > - Notes
 > - Notes
 
-# Ingredients/Macros
+## Ingredients/Macros
 
 |     | Weight (g) | Fat (g) | Carbs (g) | Protein (g) | Calories (cal) |
 | --- | :--------: | :-----: | :-------: | :---------: | :------------: |
 
 
-# Instructions
+## Instructions
 
 1. step 1
 

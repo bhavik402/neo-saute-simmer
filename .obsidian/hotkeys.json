@@ -16,14 +16,6 @@
       "key": "P"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -33,7 +25,14 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": [],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
   "obsidian-git:push": [
     {
       "modifiers": [

@@ -3,7 +3,7 @@
 > - This can be meal prepped for 7 days and the texture of oats will stay the same if old fashioned oats are used.
 > - Quick and steel cut oats may change drastically 
 
-# Ingredients/Macros
+## Ingredients/Macros
 
 |                      | Weight (g) | Fat (g) | Carbs (g) | Protein (g) | Calories (cal) |
 | -------------------- | :--------: | :-----: | :-------: | :---------: | :------------: |
@@ -18,7 +18,7 @@
 | Makes Serving(s)     |     1      |         |           |             |                |
 | Per Serving          |   300.00   |  6.20   |   62.20   |    39.55    |     462.80     |
 
-# Instructions
+## Instructions
 
 1. Mix all ingredients in a container or a bowl
 2. leave it in the fridge overnight

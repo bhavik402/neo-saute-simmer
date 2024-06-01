@@ -9,7 +9,6 @@ title = "Saute Simmer"
 [output.html]
 no-section-label = true
 
-# preprocessor
 [preprocessor.callouts] # https://crates.io/crates/mdbook-callouts
 
 # cargo install mdbook 

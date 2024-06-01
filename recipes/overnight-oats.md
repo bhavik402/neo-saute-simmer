@@ -1,5 +1,4 @@
 # Overnight Oats
-
 > [!NOTE]
 > - This can be meal prepped for 7 days and the texture of oats will stay the same if old fashioned oats are used.
 > - Quick and steel cut oats may change drastically 

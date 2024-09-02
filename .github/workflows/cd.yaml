@@ -28,6 +28,9 @@ jobs:
           mkdir mdbook
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
+      - name: Install Cargo crates
+        run: |
+          cargo install mdbook-callouts
       - name: Build Book
         run: |
           mdbook build

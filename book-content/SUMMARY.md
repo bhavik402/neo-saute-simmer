@@ -1,10 +1,9 @@
 # Summary
 
 - [🏡 HOME](README.md)
-
----
+# Quick Reference
+- [Air Fryer](references/airfryer-configs.md)
 
 # Recipes
- - [Overnight Oats](recipes/overnight-oats.md)
- - [Cottage Cheese Smoothie](recipes/cottage-cheese-smoothie.md)
- - [Air Fried Potatoes](recipes/air-fried-potatoes.md)
+ - [Cottage Cheese Yogurt Mix](recipes/cottage-cheese-yogurt-mix.md)
+ - [Ramen Noodles (Hakka)](./recipes/ramen-noodles-hakka.md)

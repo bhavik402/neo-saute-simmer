@@ -3,5 +3,5 @@
 
 |                 | Temperature (F) | Time (minutes) |
 | --------------- | --------------- | -------------- |
-| Corn on the Cob | 380             | 13-15          |
 | Chicken Breast  | 400             | 9              |
+| Corn on the Cob | 380             | 13-15          |

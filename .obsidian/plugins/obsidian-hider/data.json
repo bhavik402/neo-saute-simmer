@@ -3,7 +3,7 @@
   "hideStatus": true,
   "hideTabs": false,
   "hideScroll": true,
-  "hideSidebarButtons": true,
+  "hideSidebarButtons": false,
   "hideTooltips": true,
   "hideFileNavButtons": false,
   "hideSearchSuggestions": true,

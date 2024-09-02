@@ -1,5 +1,6 @@
 # Air Frying Temps/Time
 
+> Time does not include preheat time
 
 |                 | Temperature (F) | Time (minutes) |
 | --------------- | --------------- | -------------- |

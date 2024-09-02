@@ -1,5 +1,7 @@
 # Cottage Cheese Smoothie
 
+#smoothie #beverage
+
 > [!NOTE]
 > - adding flavored yogurt (greek or regular) will help make this taste much better
 > - Optional: Add additional whey, casein, or collagen peptides protein to increase the protein content 

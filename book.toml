@@ -13,6 +13,12 @@ edit-url-template = "https://github.com/bhavik402/neo-saute-simmer/edit/main/{pa
 
 
 [preprocessor.callouts] # https://crates.io/crates/mdbook-callouts
+[preprocessor.tag]
+command = "mdbook-tag"
+# Optional key to customize the output filename (defaults to tags.md)
+filename = "customtagsfile.md"
+
 
 # cargo install mdbook 
 # cargo install mdbook-callouts
+# cargo install mdbook-tag

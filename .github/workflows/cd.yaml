@@ -31,6 +31,7 @@ jobs:
       - name: Install Cargo crates
         run: |
           cargo install mdbook-callouts
+          cargo install mdbook-tag
       - name: Build Book
         run: |
           mdbook build

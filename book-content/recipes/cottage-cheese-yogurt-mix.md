@@ -37,14 +37,14 @@
 
 # 💬 Comments
 - can be modified to include high protein, carbs and/or fat
-  - Protein: whey/casein protein powder (unflavored/flavored), collagen peptides, etc. 
+  - Protein: whey/casein protein powder (unflavored/flavored), collagen peptides, etc.
   - Carbs: ideally fruits works best here but you can include some vegetables?
-  - Fat: Nuts/Seeds are great way to include fats 
+  - Fat: Nuts/Seeds are great way to include fats
 - Ideally can be consumed before going to sleep due to slow digesting casein protein in cottage cheese
 
 # 🫙 Macros for Single Serving and Meal Prep
 
-> For accurate macro calculation plug it into nutrition tracking up like Cronometer, MyFitnessPal, etc. 
+> For accurate macro calculation plug it into nutrition tracking up like Cronometer, MyFitnessPal, etc.
 
 |                        | Weight(g) | Fat (g) | Carbs (g) | Protein (g) | Calories (kcal) |     | Meal Prep Weight (g) |
 | ---------------------- | --------- | :-----: | :-------: | :---------: | :-------------: | --- | -------------------: |

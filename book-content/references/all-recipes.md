@@ -3,13 +3,13 @@
 - [Cottage Cheese Yogurt Mix](../recipes/cottage-cheese-yogurt-mix.md)
 - [Ramen Noodles - Hakka](../recipes/ramen-noodles-hakka.md)
 
-## Yogurt
+### `Yogurt`
 - [Cottage Cheese Yogurt Mix](../recipes/cottage-cheese-yogurt-mix.md)
 
-## Noodles
+### `Noodles`
 - [Ramen Noodles - Hakka](../recipes/ramen-noodles-hakka.md)
 
-## Sauces/Dips
+### `Sauces/Dips`
 - Spinach Curry Sauce
 - Tomato Curry Sauce
 - Green Chutney

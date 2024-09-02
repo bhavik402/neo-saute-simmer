@@ -2,7 +2,7 @@
 authors = ["Bhavik Patel"]
 language = "en"
 multilingual = false
-src = "src"
+src = "book-content"
 title = "Saute Simmer"
 
 # MDBOOK: https://rust-lang.github.io/mdBook/guide/creating.html

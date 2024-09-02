@@ -1,9 +1,9 @@
 # Summary
 
 - [🏡 HOME](README.md)
-# Quick Reference
+# 📜 QUICK REFERENCES
 - [Air Fryer](references/airfryer-configs.md)
 
-# Recipes
+# 🥘 RECIPES
  - [Cottage Cheese Yogurt Mix](recipes/cottage-cheese-yogurt-mix.md)
  - [Ramen Noodles (Hakka)](./recipes/ramen-noodles-hakka.md)

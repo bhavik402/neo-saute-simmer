@@ -8,8 +8,6 @@ title = "Saute & Simmer"
 # MDBOOK: https://rust-lang.github.io/mdBook/guide/creating.html
 [output.html]
 no-section-label = true
-git-repository-url = "https://github.com/bhavik402/neo-saute-simmer/tree/main"
-edit-url-template = "https://github.com/bhavik402/neo-saute-simmer/edit/main/{path}"
 
 
 [preprocessor.callouts] # https://crates.io/crates/mdbook-callouts

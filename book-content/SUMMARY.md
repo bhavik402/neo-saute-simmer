@@ -1,7 +1,7 @@
 # Summary
+- [Saute & Simmer](references/all-recipes.md)
 
 # 📜 QUICK REFERENCES
-- [All Recipes](references/all-recipes.md)
 - [Air Fryer](references/airfryer-configs.md)
 
 # 🥘 RECIPES

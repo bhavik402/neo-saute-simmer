@@ -1,4 +1,4 @@
-# Cottage Cheese Smoothie
+# Cottage Cheese Yogurt Mix
 
 
 > [!NOTE]

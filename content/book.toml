@@ -5,6 +5,9 @@ multilingual = false
 src = "."
 title = "Saute Simmer"
 
+[build]
+build-dir = "../book"
+
 # MDBOOK: https://rust-lang.github.io/mdBook/guide/creating.html
 [output.html]
 no-section-label = true

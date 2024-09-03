@@ -1,6 +1,6 @@
 # Recipes
 
-- [Chicken Tandoori](./recipes/chicken-tandoori.md)
+- [Chicken Tandoori](../recipes/chicken-tandoori.md)
 - [Cottage Cheese Yogurt Mix](../recipes/cottage-cheese-yogurt-mix.md)
 - [Ramen Noodles - Hakka](../recipes/ramen-noodles-hakka.md)
 

@@ -10,6 +10,8 @@
 |                 | Corn/Corn on the Cob | Onions       |
 |                 |                      | Zucchini     |
 |                 |                      | Bell Peppers |
+|                 |                      | Celery       |
+|                 |                      | Mushrooms    |
 
 #### Bowl 1
 - Hummus (30g)
@@ -32,14 +34,14 @@
 - Spicy Mustard (5-10g)
 - Dijon Mustard (5-10g)
 - Diced Chicken (5-7oz)
-- Pick your choice of Carbs and Toppings listed 
+- Pick your choice of Carbs and Toppings listed
 
 #### Bowl 4
 - Spinach Curry Sauce (120g)
 - Diced Chicken (5-7oz)
-- Pick your choice of Carbs and Toppings listed 
+- Pick your choice of Carbs and Toppings listed
 
 #### Bowl 5
 - Spinach Curry Sauce (120g)
 - Diced Chicken (5-7oz)
-- Pick your choice of Carbs and Toppings listed 
+- Pick your choice of Carbs and Toppings listed

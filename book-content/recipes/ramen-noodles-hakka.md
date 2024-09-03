@@ -3,6 +3,12 @@
 > [!NOTE]
 > Tags: noodles, ramen-noodles
 
+
+<details><summary>Question here</summary>
+This is hidden answer
+</details>
+
+
 # 🌶️ Ingredients
 
 - Maruchan Chicken Ramen Noodles

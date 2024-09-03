@@ -3,6 +3,9 @@
 
 # 📜 QUICK REFERENCES
 - [Air Fryer](references/airfryer-configs.md)
+- [Tips & Tricks](references/tips-tricks.md)
+---
+- [Bowl Recipes](meals/bowls.md)
 
 # 🥘 RECIPES
  - [Chicken Tandoori](./recipes/chicken-tandoori.md)

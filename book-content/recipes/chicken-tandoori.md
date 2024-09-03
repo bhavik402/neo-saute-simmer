@@ -1,7 +1,7 @@
 # Chicken Tandoori
 
-> [!NOTE] 
-> **This recipe is for about 6 chicken breast (Sold usually in Family Packs)** 
+> [!NOTE]
+> **This recipe is for about 6 chicken breast** 
 > - ideal for meal preps
 > - for about 3 chicken breast, cut the amount used for marination in half 
 > 
@@ -24,11 +24,12 @@
 
 # 🥣 Instructions
 
-- For garlic paste, you can blend it or use pestle and mortar
-> Note: Microplane works the best and takes less time  
+- For garlic paste, you can blend it, pestle and mortar, or microplane
+> Microplane works the best and takes less time  
 - Mix all ingredients for marinade in a separate bowl/container
 - Optional (for chicken breast)
-	- Use meat mallet to thin out chicken breast cuts or lay the chicken down and cut from the middle laterally
+	- Use meat mallet to thin out chicken breast or lay the piece down flat and cut from the middle laterally
 	- If you are using any other cuts, do not slice or use meat mallet
-- Mix marinade and chicken well
-- Let it rest for up to 24hrs but at least and an hour
+- Coat the chicken pieces with marinade well
+- Let it rest for up to 24hrs but at least an hour
+- Bring chicken to room temperature before cooking (takes about an hour at room temps) this keeps chicken from drying out during cooking process

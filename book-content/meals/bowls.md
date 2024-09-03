@@ -8,8 +8,8 @@
 | Ground Beef     | Chickpeas            | Pickles      |
 | Eggs            | Croutons             | Cabbage Slaw |
 |                 | Corn/Corn on the Cob | Onions       |
-|                 |                      | Zucchini     |
-|                 |                      | Bell Peppers |
+|                 | Potatoes             | Zucchini     |
+|                 | Sweet Potatoes       | Bell Peppers |
 |                 |                      | Celery       |
 |                 |                      | Mushrooms    |
 

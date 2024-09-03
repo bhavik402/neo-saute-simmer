@@ -17,6 +17,8 @@
 - Ground Cumin - 5g
 - Coriander - 4g
 - Ground Red Chili - 3g
+- Garam Masala - 5g 
+	- Ideally this can be any type of mixed spiced masala (i.e. [Chicken Tandoori Masala](https://www.amazon.com/Everests-Tandoori-Chicken-Masala-100g/dp/B07DXLZXCK) )
 - Salt - 5g
 - 6 Chicken breast (you can also use chicken thighs, wings, etc.)
 - Optional

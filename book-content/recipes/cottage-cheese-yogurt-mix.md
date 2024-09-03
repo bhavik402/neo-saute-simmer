@@ -2,7 +2,7 @@
 
 
 > [!NOTE]
-> Tags: smoothie, beverage, cottage-cheese, greek-yogurt, desert, high-protein, low-carb
+> Tags: smoothie, beverage, cottage-cheese, greek-yogurt, desert, high-protein, low-carb, meal-prep
 > 
 > Notes: 
 >   - adding flavored yogurt (greek or regular) will help make this taste much better
